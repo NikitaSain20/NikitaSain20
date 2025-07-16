@@ -34,11 +34,9 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitasain&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nikitasain&theme=github-compact" />
-</p>
+### 📊 GitHub Stats
+
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaSain20&show_icons=true&theme=tokyonight)
 
 ---
 
