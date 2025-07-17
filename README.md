@@ -35,13 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikitaSain20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitaSain20&show_icons=true&theme=tokyonight" />
 </p>
----
 
 ### 📌 Pinned Projects
 
@@ -61,3 +56,5 @@
 ### ⚡ Fun Fact
 
 > I love solving real-world problems with web tech and always eager to explore the latest trends in frontend and backend development!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaSain20&theme=radical&hide_border=true)](https://git.io/streak-stats)
