@@ -40,13 +40,15 @@
 
 ---
 
-## 📊 GitHub Stats
+### 🔥 Streak Stats
 
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitaSain20&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaSain20&theme=tokyonight)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaSain20&theme=radical&hide_border=true)](https://git.io/streak-stats)
+## 📊 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NikitaSain20&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
