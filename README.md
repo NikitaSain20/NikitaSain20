@@ -32,17 +32,21 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaSain20&show_icons=true&theme=tokyonight" />
-</p>
-
 ### 📌 Pinned Projects
 
 - [📦 Dial a Meal](#) – Tiffin booking platform with custom plans (React + Firebase)
 - [🍕 GoFood](#) – Food ordering app with cart, auth, search (MERN stack)
 - [🏛️ ArchiCraft](#) – Architecture design request system (React + Firebase)
+
+---
+
+## 📊 GitHub Stats
+
+![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikitaSain20&show_icons=true&theme=radical)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaSain20&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
