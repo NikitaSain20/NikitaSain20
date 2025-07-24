@@ -46,12 +46,6 @@
 
 ---
 
-## 📊 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NikitaSain20&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: [nikitasen664@gmail.com](mailto:nikitasen664@gmail.com)
@@ -62,5 +56,3 @@
 ### ⚡ Fun Fact
 
 > I love solving real-world problems with web tech and always eager to explore the latest trends in frontend and backend development!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikitaSain20&theme=radical&hide_border=true)](https://git.io/streak-stats)
