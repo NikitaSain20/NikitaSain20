@@ -9,11 +9,11 @@
 
 ### 💫 About Me
 
+- 👩‍💼 Currently working at **Pennep** -building scalable web apps using nextjs and strapi
 - 🎓 Completed **BCA** at GNA University, Punjab
 - 💻 Currently building **React-Firebase** and **MERN** stack projects
 - 🛠️ Trained at **O7 Services** - working on full-stack apps
 - 🧠 learning **Redux** and improving backend skills
-- 👩‍💼 Currently working at **Pennep** -building scalable web apps using nextjs and strapi
 
 ---
 
