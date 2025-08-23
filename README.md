@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikita Sain</h1>
 <h3 align="center">Aspiring Web Developer | MERN Stack Enthusiast</h3>
 
-<p align="center" width="full">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&width=435&lines=React+%7C+Firebase+%7C+MongoDB+%7C+Tailwind+CSS;Aspiring+MERN+Developer;Always+Learning+New+Things+%F0%9F%93%96" alt="Typing SVG" />
+<p align="center" width="100%">
+  <img width="w-full" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&width=435&lines=React+%7C+Firebase+%7C+MongoDB+%7C+Tailwind+CSS;Aspiring+MERN+Developer;Always+Learning+New+Things+%F0%9F%93%96" alt="Typing SVG" />
 </p>
 
 ---
