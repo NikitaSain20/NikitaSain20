@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center" width="100%">
-  <img width="w-full" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&width=535&lines=React+%7C+Nextjs+%7C+MongoDB+%7C+TailwindCSS+Expressjs&Nodejs;Aspiring+MERN+Developer;Always+Learning+New+Things+%F0%9F%93%96" alt="Typing SVG" />
+  <img width="w-full" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&width=535&lines=React+%7C+Nextjs+%7C+MongoDB+%7C+TailwindCSS+%7C+Expressjs&Nodejs;Aspiring+MERN+Developer;Always+Learning+New+Things+%F0%9F%93%96" alt="Typing SVG" />
 </p>
 
 ---
