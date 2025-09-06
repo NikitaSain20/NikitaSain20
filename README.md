@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 - 👩‍💼 Currently working at **Pennep** -building scalable web apps using nextjs and strapi
-- 🎓 Completed **BCA** at GNA University, Punjab
+- 🎓 **BCA** – GNA University, Punjab (2022 – 2025)
 - 💻 Currently building **Nextjs** client projects 
 - 🛠️ Trained at **O7 Services** - working on Reactjs and Firebase webapps
 - 🧠 Learning Backend Skills, AI agents, deployment workflows, and exploring new libraries to strengthen coding and development skills.
