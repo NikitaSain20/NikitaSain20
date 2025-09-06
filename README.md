@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 👩‍💼 Currently working at **Pennep** -building scalable web apps using nextjs and strapi
+- 👩‍💼 Currently working as a Software Developer Intern at **Pennep** -building scalable web apps using nextjs and strapi
 - 🎓 **BCA** – GNA University, Punjab (2022 – 2025)
 - 💻 Currently building **Nextjs** client projects 
 - 🛠️ Trained at **O7 Services** - working on Reactjs and Firebase webapps
